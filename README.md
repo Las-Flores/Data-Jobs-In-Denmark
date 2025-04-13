@@ -5,8 +5,8 @@
 
 
 ## ℹ️ Overview
-<img src="https://github.com/user-attachments/assets/3ed49e40-0c44-4bf1-b89f-0b9d26a84e35" width="500"/>
-<img src="https://github.com/user-attachments/assets/c5020e82-fd4d-4a20-84d5-4034f7b8339e" width="500"/>
+<img src="https://github.com/user-attachments/assets/3ed49e40-0c44-4bf1-b89f-0b9d26a84e35" width="300"/>
+<img src="https://github.com/user-attachments/assets/c5020e82-fd4d-4a20-84d5-4034f7b8339e" width="300"/>
 
 
 
