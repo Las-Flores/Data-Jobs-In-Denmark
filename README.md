@@ -6,7 +6,9 @@
 
 ## ℹ️ Overview
 <img src="https://github.com/user-attachments/assets/3ed49e40-0c44-4bf1-b89f-0b9d26a84e35" width="500"/>
-<img src="https://github.com/user-attachments/assets/8542a793-66da-40b0-b5a5-7da3b90d37b1" width="500"/>
+<img src="https://github.com/user-attachments/assets/c5020e82-fd4d-4a20-84d5-4034f7b8339e" width="500"/>
+
+
 
 
 This project was made primarily for myself, but can easily be used by anyone else. My findings show among others what skills are in demand, what industries the jobs belong in and what are the most popular locations for jobs in data. My dataset is made by myself by web scraping linkedin job listings with Octoparse after searching "data" and setting the location to entire Denmark to make sure I collect all jobs that have a connection with data. I cleaned and preprocessed the data and did some simple EDA in jupyter notebook. I then made a power BI dashboard to make it more accesible to look at and interact with my now cleaned and organized dataset. 
